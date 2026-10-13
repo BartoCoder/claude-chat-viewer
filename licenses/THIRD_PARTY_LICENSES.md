@@ -59,6 +59,7 @@ Claude Chat Viewer uses the following open-source libraries. We are grateful to 
 - **@tauri-apps/plugin-window-state:** MIT OR Apache-2.0 — https://github.com/tauri-apps/plugins-workspace
 - **@tauri-apps/plugin-opener:** MIT OR Apache-2.0 — https://github.com/tauri-apps/plugins-workspace
 - **@tauri-apps/plugin-updater:** MIT OR Apache-2.0 — https://github.com/tauri-apps/plugins-workspace
+- **@tauri-apps/plugin-http:** MIT OR Apache-2.0 — https://github.com/tauri-apps/plugins-workspace
 
 ---
 
