@@ -85,4 +85,13 @@ All Tauri plugins are licensed under **MIT OR Apache-2.0** and available at http
 
 ---
 
+## Dev Dependencies
+
+### javascript-obfuscator
+- **License:** BSD-2-Clause
+- **Copyright:** © 2016-2024 Sanex3339
+- **Repository:** https://github.com/javascript-obfuscator/javascript-obfuscator
+
+---
+
 *This list includes direct dependencies only. For a complete list of transitive dependencies, please refer to `package-lock.json` and `Cargo.lock` in the source distribution.*
