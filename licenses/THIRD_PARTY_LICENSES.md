@@ -67,6 +67,7 @@ All Tauri plugins are licensed under **MIT OR Apache-2.0** and available at http
 - **@tauri-apps/plugin-opener**
 - **@tauri-apps/plugin-window-state**
 - **@tauri-apps/plugin-updater**
+- **@tauri-apps/plugin-process**
 
 ---
 
