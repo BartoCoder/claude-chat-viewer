@@ -83,6 +83,11 @@ All Tauri plugins are licensed under **MIT OR Apache-2.0** and available at http
 - **Copyright:** © Erick Tryzelaar and serde contributors
 - **Repository:** https://github.com/serde-rs/json
 
+### rustls
+- **License:** Apache-2.0 OR MIT
+- **Copyright:** © Rustls Contributors
+- **Repository:** https://github.com/rustls/rustls
+
 ---
 
 ## Dev Dependencies
