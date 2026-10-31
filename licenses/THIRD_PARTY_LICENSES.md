@@ -55,6 +55,11 @@ Claude Chat Viewer uses the following open-source libraries. We are grateful to 
 - **Copyright:** © 2018+, MarkedJS; © 2011-2018, Christopher Jeffrey
 - **Repository:** https://github.com/markedjs/marked
 
+### @streamparser/json
+- **License:** MIT
+- **Copyright:** © Juanjo Diaz
+- **Repository:** https://github.com/juanjoDiaz/streamparser-json
+
 ---
 
 ## Tauri Plugins
